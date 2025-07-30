@@ -33,6 +33,3 @@ defmodule Lasagna do
 
 
 end
-
-
-IO.puts Lasagna.preparation_time_in_minutes(1)

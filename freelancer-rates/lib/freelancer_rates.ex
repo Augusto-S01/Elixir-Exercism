@@ -20,5 +20,3 @@ defmodule FreelancerRates do
     # Please implement the days_in_budget/3 function
   end
 end
-
-FreelancerRates.apply_discount(150,10) |> IO.puts()
